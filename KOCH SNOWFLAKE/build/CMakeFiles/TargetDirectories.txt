@@ -1,0 +1,14 @@
+/Users/ivan/CLionProjects/untitled8/build/CMakeFiles/untitled8.dir
+/Users/ivan/CLionProjects/untitled8/build/CMakeFiles/edit_cache.dir
+/Users/ivan/CLionProjects/untitled8/build/CMakeFiles/rebuild_cache.dir
+/Users/ivan/CLionProjects/untitled8/build/CMakeFiles/list_install_components.dir
+/Users/ivan/CLionProjects/untitled8/build/CMakeFiles/install.dir
+/Users/ivan/CLionProjects/untitled8/build/CMakeFiles/install/local.dir
+/Users/ivan/CLionProjects/untitled8/build/CMakeFiles/install/strip.dir
+/Users/ivan/CLionProjects/untitled8/build/koch_snowflake/CMakeFiles/koch_snowflake.dir
+/Users/ivan/CLionProjects/untitled8/build/koch_snowflake/CMakeFiles/edit_cache.dir
+/Users/ivan/CLionProjects/untitled8/build/koch_snowflake/CMakeFiles/rebuild_cache.dir
+/Users/ivan/CLionProjects/untitled8/build/koch_snowflake/CMakeFiles/list_install_components.dir
+/Users/ivan/CLionProjects/untitled8/build/koch_snowflake/CMakeFiles/install.dir
+/Users/ivan/CLionProjects/untitled8/build/koch_snowflake/CMakeFiles/install/local.dir
+/Users/ivan/CLionProjects/untitled8/build/koch_snowflake/CMakeFiles/install/strip.dir

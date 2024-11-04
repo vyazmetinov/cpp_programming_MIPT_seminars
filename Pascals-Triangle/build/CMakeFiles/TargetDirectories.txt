@@ -1,0 +1,3 @@
+/Users/ivan/CLionProjects/Pascals-Triangle/build/CMakeFiles/Pascals_Triangle.dir
+/Users/ivan/CLionProjects/Pascals-Triangle/build/CMakeFiles/edit_cache.dir
+/Users/ivan/CLionProjects/Pascals-Triangle/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+/Users/ivan/CLionProjects/untitled10/build/CMakeFiles/untitled10.dir
+/Users/ivan/CLionProjects/untitled10/build/CMakeFiles/edit_cache.dir
+/Users/ivan/CLionProjects/untitled10/build/CMakeFiles/rebuild_cache.dir
+/Users/ivan/CLionProjects/untitled10/build/CMakeFiles/list_install_components.dir
+/Users/ivan/CLionProjects/untitled10/build/CMakeFiles/install.dir
+/Users/ivan/CLionProjects/untitled10/build/CMakeFiles/install/local.dir
+/Users/ivan/CLionProjects/untitled10/build/CMakeFiles/install/strip.dir

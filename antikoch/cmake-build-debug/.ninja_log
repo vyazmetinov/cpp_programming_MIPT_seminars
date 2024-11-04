@@ -1,0 +1,17 @@
+# ninja log v6
+2	200	1730035906208877019	CMakeFiles/untitled10.dir/lib/vec/vec2d.cpp.o	de90c2d55c7c848f
+7	492	1730036117608893933	CMakeFiles/untitled10.dir/lib/poly/poly.cpp.o	2fe436da9215342b
+2	647	1730035906208442474	CMakeFiles/untitled10.dir/lib/Graph_lib/GUI.cpp.o	a2267496f7e3a652
+5	544	1730036636860149720	CMakeFiles/untitled10.dir/main.cpp.o	4fc3b6dda54d27ba
+201	709	1730035906407848832	CMakeFiles/untitled10.dir/lib/Graph_lib/ext/graph.cpp.o	33f9bfd0ab626396
+2	640	1730035906208737768	CMakeFiles/untitled10.dir/lib/Graph_lib/Window.cpp.o	53d16416e793738f
+544	693	1730036637398782546	untitled10	6db8cde44667dc8e
+1	797	1730035906208033929	CMakeFiles/untitled10.dir/lib/Graph_lib/Graph.cpp.o	10bb5d8b185c323e
+6	206	1730036900424035984	CMakeFiles/untitled10.dir/lib/vec/vec2d.cpp.o	138fc10adca81fa
+6	651	1730036900423906108	CMakeFiles/untitled10.dir/lib/Graph_lib/Window.cpp.o	5470deb4d1ec517e
+6	652	1730036900424159610	CMakeFiles/untitled10.dir/lib/poly/poly.cpp.o	240297d7cd743b31
+5	693	1730036900423764023	CMakeFiles/untitled10.dir/lib/Graph_lib/GUI.cpp.o	61dbdec0efc050c8
+206	718	1730036900624136203	CMakeFiles/untitled10.dir/lib/Graph_lib/ext/graph.cpp.o	bf5e59d0387437e2
+5	763	1730036900423285519	CMakeFiles/untitled10.dir/main.cpp.o	75abab327c9c8b77
+5	831	1730036900423597938	CMakeFiles/untitled10.dir/lib/Graph_lib/Graph.cpp.o	90ab11dc781e3c1a
+831	988	1730036901249622679	untitled10	6db8cde44667dc8e

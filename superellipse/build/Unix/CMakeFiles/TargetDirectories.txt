@@ -1,0 +1,7 @@
+/Users/ivan/CLionProjects/untitled9/build/Unix/CMakeFiles/untitled9.dir
+/Users/ivan/CLionProjects/untitled9/build/Unix/CMakeFiles/edit_cache.dir
+/Users/ivan/CLionProjects/untitled9/build/Unix/CMakeFiles/rebuild_cache.dir
+/Users/ivan/CLionProjects/untitled9/build/Unix/CMakeFiles/list_install_components.dir
+/Users/ivan/CLionProjects/untitled9/build/Unix/CMakeFiles/install.dir
+/Users/ivan/CLionProjects/untitled9/build/Unix/CMakeFiles/install/local.dir
+/Users/ivan/CLionProjects/untitled9/build/Unix/CMakeFiles/install/strip.dir

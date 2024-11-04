@@ -1,0 +1,4 @@
+# ninja log v6
+1	207	1727977530324433901	vec/CMakeFiles/vec.dir/__/lib/vec/vec2d.cpp.o	605271726ab23bde
+0	515	1727977530323596191	vec/CMakeFiles/vec.dir/main.cpp.o	f5b37c34a37a184c
+516	610	1727977530839255696	vec/vec	14e83b2bc871df0e

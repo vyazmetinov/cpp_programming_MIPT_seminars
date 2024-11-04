@@ -1,0 +1,12 @@
+# ninja log v6
+206	649	1730034583061114396	CMakeFiles/untitled9.dir/lib/Graph_lib/ext/graph.cpp.o	efbf8f258b469438
+3	112	1730316157036531878	build.ninja	943314ff3b18737d
+10	726	1730034582864601437	CMakeFiles/untitled9.dir/lib/Graph_lib/Graph.cpp.o	3c8aaa9c86685b81
+10	603	1730034582864944898	CMakeFiles/untitled9.dir/lib/Graph_lib/Window.cpp.o	d7d0bf7b1bc4a279
+10	608	1730034582865480194	CMakeFiles/untitled9.dir/lib/poly/poly.cpp.o	c7aa1bbed7626fb4
+9	645	1730034582864109766	CMakeFiles/untitled9.dir/main.cpp.o	f07a96183ca022d
+10	206	1730034582865072024	CMakeFiles/untitled9.dir/lib/vec/vec2d.cpp.o	72fd524dc7745f0b
+10	623	1730034582864792271	CMakeFiles/untitled9.dir/lib/Graph_lib/GUI.cpp.o	6b821e8fd89a6afd
+726	878	1730034583580710545	untitled9	f6d27aade521193c
+2	150	1730316157036531878	build.ninja	943314ff3b18737d
+10	382	1730316157055440237	untitled9	f6d27aade521193c

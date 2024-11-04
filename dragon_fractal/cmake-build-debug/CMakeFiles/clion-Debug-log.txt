@@ -1,0 +1,7 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/ivan/CLionProjects/dragon_fractal -B /Users/ivan/CLionProjects/dragon_fractal/cmake-build-debug
+-- Found OpenGL: /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/System/Library/Frameworks/OpenGL.framework   
+-- Could NOT find X11 (missing: X11_X11_INCLUDE_PATH X11_X11_LIB) 
+-- Found FLTK: /opt/homebrew/lib/libfltk_images.dylib;/opt/homebrew/lib/libfltk_forms.dylib;/opt/homebrew/lib/libfltk_gl.dylib;/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/System/Library/Frameworks/OpenGL.framework;/opt/homebrew/lib/libfltk.dylib (Required is exact version "1.4") 
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/ivan/CLionProjects/dragon_fractal/cmake-build-debug
