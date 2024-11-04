@@ -1,4 +1,4 @@
-# Install script for directory: /Users/ivan/CLionProjects/Pascals-Triangle
+# Install script for directory: /Users/ivan/Documents/GitHub/cpp_programming_MIPT_seminars/Pascals-Triangle
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/ivan/CLionProjects/Pascals-Triangle/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/ivan/Documents/GitHub/cpp_programming_MIPT_seminars/Pascals-Triangle/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
